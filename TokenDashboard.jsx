@@ -3,12 +3,12 @@ import { useState } from 'react';
 // Mock wallet data
 const mockData = {
   '0x123': [
-    { symbol: 'ZEN', balance: 152.42 },
+    { symbol: 'ZTC', balance: 152.42 },
     { symbol: 'ETH', balance: 0.845 },
     { symbol: 'USDC', balance: 1200 }
   ],
   '0xabc': [
-    { symbol: 'ZEN', balance: 98.5 },
+    { symbol: 'ZTC', balance: 98.5 },
     { symbol: 'BTC', balance: 0.0043 },
     { symbol: 'ETH', balance: 0.223 }
   ]
