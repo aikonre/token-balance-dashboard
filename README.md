@@ -1,7 +1,7 @@
 # 🧮 Token Balance Dashboard
 
 A simple token balance checker built using **React** and **Tailwind CSS**.  
-This dashboard simulates checking token balances for a given wallet address — perfect for testing Web3 front-end logic without needing blockchain integration.
+This dashboard simulates checking token balances for a given wallet address, perfect for testing Web3 front-end logic without needing blockchain integration.
 
 ---
 
@@ -30,13 +30,7 @@ Imagine a beautiful token dashboard here 😎
 ```bash
 npm install
 npm run dev
-
----
-
-### 📄 Blok ke-5:
-
-```markdown
----
+```
 
 ## 💡 Notes
 
